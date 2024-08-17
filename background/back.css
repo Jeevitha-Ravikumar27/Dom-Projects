@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background: rgb(28,28,35);
+}
+.btn{
+    display: inline-flex ;
+   flex-direction: row;
+   flex-wrap: wrap;
+   flex-basis: 100%;
+   flex: 1;
+    padding: 10px 20px ;
+    cursor: pointer;
+    border: none;
+    color: #100f0f;
+    border: 2px solid white;
+    width: 120px;
+    height: 100px;
+    margin-top: 20%;
+    margin-left: 5%;
+    text-transform: capitalize;
+    align-items: center;
+    justify-content: space-between;
+   
+   
+    
+    
+}
+.purple{
+    background-color: purple;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.teal{
+    background-color: teal;
+}
