@@ -4,7 +4,7 @@ Emoji Generator
 
 
 Calculator 
-     calculator with Html,CSS,JS (DOM)
+      Basic calci with Html,CSS,JS (DOM)
       Do check out here -  https://raw.githack.com/Jeevitha-Ravikumar27/Dom-Projects/main/calci/res.html
 
 
