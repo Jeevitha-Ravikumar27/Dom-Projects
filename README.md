@@ -3,4 +3,10 @@ Emoji Generator
      Do check out here - https://raw.githack.com/Jeevitha-Ravikumar27/Dom-Projects/main/emoji/emoji.html
 
 
+Calculator 
+     calculator with Html,CSS,JS (DOM)
+      Do check out here -  https://raw.githack.com/Jeevitha-Ravikumar27/Dom-Projects/main/calci/res.html
+
+
+
      
